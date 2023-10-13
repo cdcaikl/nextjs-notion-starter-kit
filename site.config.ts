@@ -2,15 +2,15 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '88a72f1ee29c4544aabc6b6ecf425c4f',
+  rootNotionPageId: 'fafd4a2ea94e4a9cb0a3f008f30eeb5d',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'SJB外贸业务员知识库',
-  domain: 'https://cdcaikl.notion.site/88a72f1ee29c4544aabc6b6ecf425c4f',
+  name: '菜芽是菜呀红警地图',
+  domain: 'https://cdcaikl.notion.site/fafd4a2ea94e4a9cb0a3f008f30eeb5d?v=ce1e0ebaa1ec4ef4a8f98715bf9a4207',
   author: 'Kellen Cai',
 
   // open graph metadata (optional)
